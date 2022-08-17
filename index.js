@@ -1,2 +1,3 @@
-const abc = 123;
+const abc = 12346;
 console.log(abc);
+console.log(4242424);
